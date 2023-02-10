@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Visit Store</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="keep_username">Keep username</string>
+    <string name="check_update">Check Update</string>
+    <string name="login">Login</string>
+    <string name="app_ver">App Ver 1.0.0 - 20013FEA6BCC820C</string>
+    <string name="et_empty">Masih Kosong</string>
+    <string name="main_menu">Main Menu</string>
+    <string name="_150">150</string>
+    <string name="percentage">Percentage</string>
+    <string name="total_store">Total Store</string>
+    <string name="actual_store">Actual Store</string>
+    <string name="_50">50%</string>
+    <string name="kunjungan">Kunjungan</string>
+    <string name="target_install_cdfdpc">Target Install CDFDPC</string>
+    <string name="transmission_history">Transmission History</string>
+    <string name="logout">Logout</string>
+    <string name="menu">Menu</string>
+    <string name="list_store">List Store</string>
+    <string name="usera">userA</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="titik_dua">:</string>
+    <string name="data">{data}</string>
+</resources>
